@@ -1,0 +1,7 @@
+# Pythonowe śmieci
+__pycache__/
+*.py[cod]
+
+# Pliki środowiskowe i ustawienia
+.env
+.vscode/
